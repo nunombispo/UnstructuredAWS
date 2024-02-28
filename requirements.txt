@@ -1,0 +1,5 @@
+unstructured[s3]
+unstructured[opensearch]
+unstructured[embed-huggingface]
+httpx
+python-decouple
